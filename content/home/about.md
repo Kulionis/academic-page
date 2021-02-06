@@ -3,7 +3,7 @@ widget: about
 widget_id: recent
 headless: true
 weight: 20
-title: About
+title: ""
 active: true
 author: admin
 ---
