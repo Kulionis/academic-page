@@ -27,15 +27,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Economic History
+      institution: Lund University
+      year: 2019
+    - course: MSc Economic growth, innovation, spatial dynamics
+      institution: Lund University
+      year: 2014
+    - course: BSc Economics and Finance
+      institution: Hull University, UK
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: false
