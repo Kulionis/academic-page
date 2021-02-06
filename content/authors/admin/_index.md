@@ -1,6 +1,7 @@
 ---
 title: Viktoras Kulionis
 role: Postdoctoral Researcher at Institute for environmental engineering, ETH Zurich
+avatar_filename: profile_pic.png
 bio: Environmental modelling
 interests:
   - Artificial Intelligence
@@ -28,15 +29,15 @@ organizations:
 education:
   courses:
     - course: PhD in Economic History
-      institution: Lund University
-      year: 2019
+      institution: Lund University, Sweden
+      year: 2017
     - course: MSc Economic growth, innovation, spatial dynamics
-      institution: Lund University
+      institution: Lund University, Sweden
       year: 2014
     - course: BSc Economics and Finance
       institution: Hull University, UK
       year: 2012
-email: ""
+email: vaitas7@gmail.com
 superuser: true
 highlight_name: false
 ---
