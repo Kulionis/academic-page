@@ -1,7 +1,7 @@
 ---
 title: Viktoras Kulionis
 role: Postdoctoral Researcher at Institute for environmental engineering, ETH Zurich
-avatar_filename: profile_pic.png
+avatar_filename: avatar.jpg
 bio: Environmental modelling
 interests:
   - Environmental modelling
