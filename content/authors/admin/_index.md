@@ -4,12 +4,11 @@ role: Postdoctoral Researcher at Institute for environmental engineering, ETH Zu
 avatar_filename: profile_pic.png
 bio: Environmental modelling
 interests:
-  - Environmental modelling
+  - trade and the environmentEnvironmental modelling
   - Input-output analysis
   - Environmental Economics
   - Data science
   - Sustainable development
-  - international trade and the environment
 social:
   - icon: envelope
     icon_pack: fas
