@@ -1,6 +1,6 @@
 ---
 title: Viktoras Kulionis
-role: Postdoctoral Researcher at Institute for environmental engineering
+role: Postdoctoral researcher at Institute for environmental engineering
 avatar_filename: avatar.png
 bio: ""
 interests:
