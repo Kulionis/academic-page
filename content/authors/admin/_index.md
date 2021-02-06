@@ -2,7 +2,7 @@
 title: Viktoras Kulionis
 role: Postdoctoral Researcher at Institute for environmental engineering
 avatar_filename: avatar.png
-bio: Environmental modelling
+bio: ""
 interests:
   - Environmental modelling
   - Input-output analysis
