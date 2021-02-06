@@ -12,19 +12,19 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ViktorasKu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=FsDFWNoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Kulionis/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/viktoras-kulionis-ab5b4a176/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ETH Zürich
+    url: https://esd.ifu.ethz.ch/
 education:
   courses:
     - course: PhD in Economic History
