@@ -11,7 +11,7 @@ authors:
   - Viktoras Kulionis
   - Sven Hagen
 doi: 10.1016/j.ecolecon.2017.03.042
-publication: Ecological Economics
+publication: In *Ecological Economics*
 abstract: >-
   Previous research suggests that there is an inverted U-shape curve for energy
   intensity in the long-run for Western Europe with a peak in the early 20th
