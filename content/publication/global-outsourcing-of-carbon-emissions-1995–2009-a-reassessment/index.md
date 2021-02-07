@@ -34,7 +34,7 @@ abstract: "Increasing global production fragmentation allows for outsourcing of
   understanding of the impact of international trade on global carbon
   emissions."
 draft: false
-featured: false
+featured: true
 tags:
   - Carbon leakage
   - Climate mitigation
