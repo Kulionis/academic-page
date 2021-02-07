@@ -9,7 +9,7 @@ authors:
   - Tobias Nielsen
   - Daniel Moran
 doi: 10.1016/j.gloenvcha.2017.12.006
-publication: Global Environmental Change
+publication: In *Global Environmental Change*
 abstract: "In a world where climate goals are global but action remains firmly
   in the hands of states, reliable methods are needed to ensure that emissions
   reductions on a national level are not offset by carbon leakage. Appropriate
