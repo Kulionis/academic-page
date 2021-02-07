@@ -26,7 +26,7 @@ abstract: "The decoupling of energy use from economic growth is an essential
   clearly played the dominant role, the contribution of factor changes in
   services and manufacturing should not be overlooked."
 draft: false
-featured: false
+featured: true
 tags:
   - Structural decomposition analysis
   - International trade
