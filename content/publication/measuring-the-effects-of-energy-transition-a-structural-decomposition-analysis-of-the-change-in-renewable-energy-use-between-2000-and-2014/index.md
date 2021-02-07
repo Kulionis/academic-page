@@ -27,6 +27,9 @@ abstract: "This study investigates the growth in global renewable energy use
   and population (+11.0 EJ)."
 draft: false
 featured: true
+tags:
+  - Structural decomposition analysisMulti-regional input-output analysisGlobal
+    energy useEnergy transition
 image:
   filename: featured
   focal_point: Smart
