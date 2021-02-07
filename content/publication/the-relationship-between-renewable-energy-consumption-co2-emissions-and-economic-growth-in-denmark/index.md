@@ -37,5 +37,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2013
+date: 2013-01-06T00:00:00.000Z
 ---
