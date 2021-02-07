@@ -19,7 +19,7 @@ abstract: Ongoing globalisation combined with the rapid pace of technological
   looking at the factors driving the change, how the importance of these factors
   has changed over time and how it differed across countries.
 draft: false
-featured: false
+featured: true
 tags:
   - Economic Growth
   - Energy use
