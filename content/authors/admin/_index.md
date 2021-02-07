@@ -1,6 +1,6 @@
 ---
 title: Viktoras Kulionis
-role: Postdoctoral Researcher at Institute for Environmental Engineering
+role: Postdoctoral Researcher at the Institute for Environmental Engineering
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -13,12 +13,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=FsDFWNoAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Kulionis/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/viktoras-kulionis-ab5b4a176/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Kulionis/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ViktorasKu
