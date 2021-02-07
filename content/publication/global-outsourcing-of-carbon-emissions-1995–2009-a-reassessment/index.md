@@ -9,7 +9,7 @@ authors:
   - Viktoras Kulionis
   - Tobias Nielsen
 doi: 10.1016/j.envsci.2018.10.010
-publication: Environmental Science & Policy
+publication: In *Environmental Science & Policy*
 abstract: "Increasing global production fragmentation allows for outsourcing of
   emissions, which may undermine national climate policies. Researchers focusing
   on the gap between consumption-based and production-based emissions have
@@ -46,5 +46,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2019
+date: 2019-01-02T00:00:00.000Z
 ---
