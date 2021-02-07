@@ -7,5 +7,6 @@ image:
   filename: martin-pruskavec-lik6u_hzqs4-unsplash-2-.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/@cvfalcon)"
 ---
 This blogpost available at: https://blogs.ethz.ch/energy/energy-transition/
