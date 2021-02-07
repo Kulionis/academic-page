@@ -7,8 +7,8 @@ authors:
   - Erik Dietzenbacher
   - Viktoras Kulionis
   - Filippo Capurro
-doi: https://doi.org/10.1016/j.apenergy.2019.114040
-publication: Applied Energy
+doi: 10.1016/j.apenergy.2019.114040
+publication: In *Applied Energy*
 abstract: "This study investigates the growth in global renewable energy use
   between 2000 and 2014. To identify its main contributors and their
   geographical distribution, a structural decomposition analysis is applied to
