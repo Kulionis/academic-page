@@ -26,7 +26,7 @@ abstract: "This study investigates the growth in global renewable energy use
   and overall energy efficiency (−23.6 EJ); consumption per capita (+32.2EJ);
   and population (+11.0 EJ)."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
