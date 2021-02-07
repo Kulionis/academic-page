@@ -22,9 +22,13 @@ abstract: This study utilizes recently published environmental extensions to the
 draft: false
 featured: false
 tags:
-  - carbon emissions; production-based emissions; consumption-based emissions;
-    technology-adjusted emissions; decoupling; global emission trends; drivers
-    of global emissions
+  - carbon emissions
+  - production-based emissions
+  - consumption-based emissions
+  - technology-adjusted emissions
+  - decoupling
+  - global emission trends
+  - drivers of global emissions
 image:
   filename: featured
   focal_point: Smart
