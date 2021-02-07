@@ -4,7 +4,7 @@ date: 2020-04-20T19:04:12.968Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: martin-pruskavec-lik6u_hzqs4-unsplash-1-.jpg
   focal_point: Smart
   preview_only: false
 ---
