@@ -42,4 +42,6 @@ highlight_name: false
 ---
 I am a Postdoctoral Researcher at ETH Zürich, Ecological Systems Design group. My research centres on quantifying the environmental and social consequences of economic activities. I have used various analytical tools to explore this topic, including input-output analysis, time series analysis, and machine learning techniques. I am currently developing methods and metrics that can help assess the environmental performance of countries, cities, and companies across a broad range of sustainability issues such as climate change, biodiversity loss and water stress. 
 
+<!---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
