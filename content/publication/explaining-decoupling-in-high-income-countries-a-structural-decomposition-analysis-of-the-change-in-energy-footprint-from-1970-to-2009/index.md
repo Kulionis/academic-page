@@ -4,8 +4,8 @@ title: "Explaining decoupling in high income countries: A structural
 publication_types:
   - "2"
 authors:
-  - ViktorasKulionis
-  - RichardWood
+  - Viktoras Kulionis
+  - Richard Wood
 doi: https://doi.org/10.1016/j.energy.2020.116909
 abstract: "The decoupling of energy use from economic growth is an essential
   element in the transition to a sustainable future. However, little is known
