@@ -25,7 +25,7 @@ abstract: In a globalized world with increasing international trade, it is
   consumption based accounts clearly show that global CO2 emissions associated
   with UK consumption have not declined over time but actually increased.
 draft: false
-featured: true
+featured: false
 tags:
   - Multi-region input-output analysis
   - Embodied Pollution
