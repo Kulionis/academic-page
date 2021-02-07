@@ -6,8 +6,8 @@ authors:
   - Magnus Jiborn
   - Viktoras Kulionis
   - Astrid Kander
-doi: https://doi.org/10.3390/en13020339
-publication: Energies
+doi: 10.3390/en13020339
+publication: In *Energies*
 abstract: This study utilizes recently published environmental extensions to the
   World Input–Output Database (WIOD) to compare production-based,
   consumption-based and technology-adjusted carbon emissions for 44 countries
