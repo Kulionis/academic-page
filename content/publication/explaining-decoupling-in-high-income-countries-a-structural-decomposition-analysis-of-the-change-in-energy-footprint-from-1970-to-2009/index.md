@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Viktoras Kulionis
   - Richard Wood
-doi: https://doi.org/10.1016/j.energy.2020.116909
-publication: Energy
+doi: 10.1016/j.energy.2020.116909
+publication: In *Energy*
 abstract: "The decoupling of energy use from economic growth is an essential
   element in the transition to a sustainable future. However, little is known
   about the long-term drivers of decoupling, especially considering the
