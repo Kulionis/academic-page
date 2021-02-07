@@ -1,5 +1,5 @@
 ---
-title: "Consumption versus Technology: Drivers of Global Carbon Emissions 2000–2014"
+title: Consumption versus Technology, Drivers of Global Carbon Emissions 2000–2014
 publication_types:
   - "2"
 authors:
