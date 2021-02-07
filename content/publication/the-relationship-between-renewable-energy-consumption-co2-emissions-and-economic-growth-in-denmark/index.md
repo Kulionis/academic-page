@@ -2,7 +2,7 @@
 title: The relationship between renewable energy consumption, CO2 emissions and
   economic growth in Denmark
 publication_types:
-  - "0"
+  - "7"
 authors:
   - Viktoras Kulionis
 doi: https://lup.lub.lu.se/student-papers/search/publication/3814694
