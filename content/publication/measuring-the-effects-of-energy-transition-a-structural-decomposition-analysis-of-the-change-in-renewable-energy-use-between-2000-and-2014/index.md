@@ -28,8 +28,10 @@ abstract: "This study investigates the growth in global renewable energy use
 draft: false
 featured: true
 tags:
-  - Structural decomposition analysisMulti-regional input-output analysisGlobal
-    energy useEnergy transition
+  - Structural decomposition analysis
+  - Multi-regional input-output analysis
+  - Global energy use
+  - Energy transition
 image:
   filename: featured
   focal_point: Smart
