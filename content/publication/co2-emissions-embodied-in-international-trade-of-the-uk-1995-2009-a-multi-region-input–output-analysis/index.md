@@ -1,6 +1,5 @@
 ---
-title: "CO2 Emissions Embodied in International Trade of the UK, 1995-2009: A
-  Multi-Region Input–Output Analysis"
+title: "CO2 Emissions Embodied in International Trade of the UK, 1995-2009: A Multi-Region Input–Output Analysis"
 publication_types:
   - "7"
 authors:
