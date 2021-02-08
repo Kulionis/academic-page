@@ -12,12 +12,10 @@ tags:
   - Numpy
   - GIS
 external_link: ""
-links:
-  - url: "#"
-    name: In dev mode
+
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-This tool creates visual narratives about environmental impacts and pressures that each country and industry generate through production/consumption of goods and services
+This tool creates visual narratives about environmental pressures and impacts that each country and industry generate through production/consumption of goods and services
