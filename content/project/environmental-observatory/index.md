@@ -11,7 +11,7 @@ tags:
   - Bootstrap
   - Numpy
   - GIS
-external_link: /
+external_link: ""
 links:
   - url: "#"
     name: In dev mode
