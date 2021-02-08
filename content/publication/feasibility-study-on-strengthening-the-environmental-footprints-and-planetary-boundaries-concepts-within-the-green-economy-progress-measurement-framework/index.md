@@ -32,7 +32,7 @@ tags:
   - Sustainable Production
   - Environmental Performance
 image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-06-30T23:00:00.000Z
