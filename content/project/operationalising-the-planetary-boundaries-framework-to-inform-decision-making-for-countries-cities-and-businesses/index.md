@@ -1,12 +1,12 @@
 ---
 title: "Operationalising the Planetary Boundaries framework to inform decision
   making for countries, cities and businesses "
-date: 2021-02-08T21:42:16.836Z
+date: 2021-01-08T21:42:00.000Z
 draft: false
 featured: false
-external_link: " "
+external_link: '" "'
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
