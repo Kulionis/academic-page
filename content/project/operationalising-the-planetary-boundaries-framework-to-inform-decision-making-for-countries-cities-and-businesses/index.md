@@ -1,15 +1,15 @@
 ---
 title: "Operationalising the Planetary Boundaries framework to inform decision
   making for countries, cities and businesses "
-tags: 
-- Planetary Boundaries
-- Science Based Targets
-- Sustainability
-- Environmental Assessments
 date: 2021-01-08T21:42:00.000Z
 draft: false
 featured: false
-external_link: ""
+tags:
+  - Planetary Boundaries
+  - Science Based Targets
+  - Sustainability
+  - Environmental Assessments
+external_link: projects/PB/
 image:
   filename: featured.png
   focal_point: Smart
