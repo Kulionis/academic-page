@@ -8,7 +8,7 @@ tags:
   - plotly
   - pandas
   - numpy
-external_link: http://factor-flow.herokuapp.com/
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
