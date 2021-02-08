@@ -3,7 +3,7 @@ title: Feasibility Study on Strengthening the Environmental Footprints and
   Planetary Boundaries Concepts within the Green Economy Progress Measurement
   Framework
 publication_types:
-  - "0"
+  - "4"
 authors:
   - Stephan Pfister
   - Viktoras Kulionis
@@ -19,12 +19,12 @@ abstract: "The aim of this feasibility study is to combine the efforts on the
   to its dashboard of environmental sustainability indicators, for the following
   footprints indicators (see appendix for more details): - greenhouse gas
   footprint - biodiversity footprint (based on LC Initiative recommendations for
-  land use) - water footprint based on LC Initiative recommendations (AWARE)
+  land use) - water footprint based on LC Initiative recommendations (AWARE).
   Additionally, the feasibility study will explore the linkages to the SCP-HAT
   tool, also developed by UN Environment aimed at supporting the design of
   national action plans for sustainable consumption and production."
 draft: false
-featured: false
+featured: true
 tags:
   - Green Economy
   - Environmental Indicators
@@ -32,8 +32,8 @@ tags:
   - Sustainable Production
   - Environmental Performance
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
-date: 2020
+date: 2020-06-30T23:00:00.000Z
 ---
