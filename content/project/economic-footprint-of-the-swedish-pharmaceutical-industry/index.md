@@ -1,9 +1,9 @@
 ---
 title: "Economic footprint of the Swedish pharmaceutical industry "
-date: 2021-02-09T08:42:09.805Z
+date: 2019-09-09T08:42:09.805Z
 draft: false
 featured: false
-external_link: "#"
+external_link: ""
 image:
   filename: featured.jpg
   focal_point: Smart

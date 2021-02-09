@@ -8,7 +8,7 @@ tags:
   - plotly
   - pandas
   - numpy
-external_link: "#"
+external_link: ""
 image:
   filename: featured.jpeg
   focal_point: Smart
