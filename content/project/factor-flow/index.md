@@ -1,5 +1,5 @@
 ---
-title: "Factor Flow - tracking energy embodied in goods and services "
+title: "Factor Flow - tracking energy content embodied in goods and services "
 date: 2019-02-07T22:41:00.000Z
 draft: false
 featured: true
