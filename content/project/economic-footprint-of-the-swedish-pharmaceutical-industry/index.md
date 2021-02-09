@@ -5,10 +5,10 @@ draft: false
 featured: false
 external_link: "#"
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: ""
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/@adamsky1973)"
 ---
 The pharmaceutical industry is a significant component of the Swedish innovation-driven economy that generates large export incomes and contributes considerably to employment and welfare. In this project, I estimated and analysed the pharmaceutical industry's economic impact or "economic footprint" on the Swedish and Global economy.
 
