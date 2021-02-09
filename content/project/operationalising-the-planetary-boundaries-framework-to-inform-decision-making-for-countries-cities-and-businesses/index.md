@@ -9,7 +9,7 @@ tags:
   - Science Based Targets
   - Sustainability
   - Environmental Assessments
-external_link: projects/PB/
+external_link: ""
 image:
   filename: featured.png
   focal_point: Smart
