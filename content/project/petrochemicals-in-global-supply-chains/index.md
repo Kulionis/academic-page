@@ -3,7 +3,14 @@ title: Petrochemicals in global supply chains
 date: 2020-12-10T21:41:00.000Z
 draft: false
 featured: false
-external_link: "*"
+tags:
+  - Petrochemicals
+  - Data Analysis
+  - Supply Chain
+  - Plastics
+  - Upstream
+  - Downstream
+external_link: ""
 image:
   filename: featured.jpg
   focal_point: Smart

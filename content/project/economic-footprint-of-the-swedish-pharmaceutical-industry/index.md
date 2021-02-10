@@ -3,6 +3,14 @@ title: "Economic footprint of the Swedish pharmaceutical industry "
 date: 2019-09-09T08:42:09.805Z
 draft: false
 featured: false
+tags:
+  - Economic footprint
+  - Pharmaceuticals
+  - Data science
+  - Value-added
+  - Employment
+  - Tiva
+  - IO analysis
 external_link: ""
 image:
   filename: featured.jpg

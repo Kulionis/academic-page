@@ -4,10 +4,10 @@ date: 2019-02-07T22:41:00.000Z
 draft: false
 featured: true
 tags:
-  - python
-  - plotly
-  - pandas
-  - numpy
+  - Python
+  - Plotly
+  - Pandas
+  - Numpy
 external_link: ""
 image:
   filename: featured.jpeg
