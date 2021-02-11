@@ -27,7 +27,7 @@ organizations:
     url: https://esd.ifu.ethz.ch/
 education:
   courses:
-    - course: PhD School of Economics and Management
+    - course: PhD Economic History (with focus on Energy Economics)
       institution: Lund University, Sweden
       year: 2019
     - course: MSc Economic growth, innovation, spatial dynamics
