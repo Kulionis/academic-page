@@ -8,7 +8,7 @@ authors:
   - Stephan Pfister
   - Viktoras Kulionis
 doi: http://hdl.handle.net/20.500.11822/33049
-publication: United Nations Environment Programme
+publication: For *United Nations Environment Programme*
 abstract: "The aim of this feasibility study is to combine the efforts on the
   measurement of environmental footprint indicators within the Green Economy
   Progress (GEP) Measurement Framework developed by UN Environment. More
